@@ -10,7 +10,7 @@ A console-based system to manage library operations such as adding, removing, bo
 - Manage members
 
 ### Technologies Used
-- **Language:** Go (1.23)
+- **Language:** Go (1.24)
 - **Architecture:** Layered (MVC-like)
   - Models: Data structures
   - Services: Business logic
